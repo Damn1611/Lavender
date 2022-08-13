@@ -1,0 +1,25 @@
+{
+  "name": "lavender",
+  "version": "1.0.0",
+  "description": "A Discord Bot template built by T.F.A#7524!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "T.F.A#7524",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.1.1",
+    "enmap": "^5.9.0",
+    "mongoose": "^6.4.4",
+    "nekos.life": "^3.0.0",
+    "node-fetch": "^2.6.7",
+    "parse-ms": "^3.0.0",
+    "parse-ms-2": "^1.0.0",
+    "quick.db": "^9.0.6"
+  }
+}
